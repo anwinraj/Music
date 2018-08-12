@@ -1,0 +1,40 @@
+{
+"product":[
+{
+"id":1,
+"Title":"Believer",
+"Artist":"Imagine Dragons",
+"url":"http://tegos.kz/new/mp3_full/Imagine_Dragons_-_Believer.mp3"
+},
+{
+"id":2,
+"Title":"Despacito",
+"Artist":"Luis Fonsi Feat. Daddy Yankee",
+"url":"http://tegos.kz/new/mp3_full/Luis_Fonsi_feat._Daddy_Yankee_-_Despacito.mp3"
+},
+{
+"id":3,
+"Title":"Something Just Like This",
+"Artist":"Coldplay",
+"url":"http://213.32.113.82/music/Coldplay%20-%20Greatest%20Songs%20(2018)/10%20-%20Something%20Just%20Like%20This.mp3"
+},
+{
+"id":4,
+"Title":"Cold Water",
+"Artist":"Justin Bieber",
+"url":"http://sound41.songsbling.link/2016/english-songs/singles/1%20-%20Cold%20Water%20-%20Justin%20Bieber%20-%20%5bSongsBling.com%5d.mp3"
+},
+{
+"id":5,
+"Title":"Magenta Riddim",
+"Artist":"Dj Snake",
+"url":"http://136.243.140.117/110%20Hits%20Ete%20(2018)/CD1/10.%20%20DJ%20Snake%20%20-%20%20Magenta%20Riddim.mp3"
+},
+{
+"id":6,
+"Title":"In The End",
+"Artist":"Linkin Park",
+"url":"http://mediadownload.ynet.co.il/upl/525/586.mp3"
+}
+]
+}
